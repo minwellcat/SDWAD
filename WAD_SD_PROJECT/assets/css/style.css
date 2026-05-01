@@ -1,0 +1,45 @@
+body{
+    background:#fff5f8;
+    font-family:Segoe UI;
+}
+
+.navbar-pink{
+    background:linear-gradient(90deg,#ff4d88,#ff99bb);
+}
+
+.card-custom{
+    border:none;
+    border-radius:15px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.08);
+    background:white;
+    padding:10px;
+}
+
+.event-img{
+    width:100%;
+    height:150px;
+    object-fit:cover;
+    border-radius:12px;
+    display:block;
+}
+
+.card-custom h5{
+    font-size:15px;
+    margin:6px 0 4px 0;
+}
+
+.card-custom p{
+    font-size:13px;
+    margin:2px 0;
+}
+
+.btn-pink{
+    background:#ff4d88;
+    color:white;
+    border-radius:8px;
+    font-size:13px;
+}
+
+.btn-pink:hover{
+    background:#ff2f77;
+}
